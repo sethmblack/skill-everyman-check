@@ -1,10 +1,9 @@
 ---
 name: everyman-check
-description: Evaluate content through Jim Gaffigan's "everyman lens" to ensure universal
-  accessibility and relatability for regular people without specialized knowledge.
+description: Evaluate content through Jim Gaffigan's "everyman lens" to ensure universal accessibility and relatability for regular people without specialized knowledge.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - comedy
